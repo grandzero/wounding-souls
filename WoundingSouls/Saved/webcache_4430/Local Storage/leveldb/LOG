@@ -1,3 +1,6 @@
-2023/05/19-18:18:32.097 29bc Reusing MANIFEST C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2023/05/19-18:18:32.101 29bc Recovering log #3
-2023/05/19-18:18:32.107 29bc Reusing old log C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/05/24-20:17:09.914 2ba0 Reusing MANIFEST C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
+2023/05/24-20:17:09.920 2ba0 Recovering log #3
+2023/05/24-20:17:09.929 2ba0 Reusing old log C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2023/05/24-22:48:25.851 1bf0 Level-0 table #5: started
+2023/05/24-22:48:25.887 1bf0 Level-0 table #5: 13207 bytes OK
+2023/05/24-22:48:25.900 1bf0 Delete type=0 #3
