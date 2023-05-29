@@ -1,2 +1,3 @@
-2023/05/24-20:54:23.994 2260 Creating DB C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb since it was missing.
-2023/05/24-20:54:24.027 2260 Reusing MANIFEST C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/29-13:52:13.766 538 Reusing MANIFEST C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/29-13:52:13.767 538 Recovering log #7
+2023/05/29-13:52:13.768 538 Reusing old log C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000007.log 

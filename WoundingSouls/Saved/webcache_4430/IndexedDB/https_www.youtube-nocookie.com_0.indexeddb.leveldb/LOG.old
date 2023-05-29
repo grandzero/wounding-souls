@@ -1,0 +1,15 @@
+2023/05/29-12:06:00.635 1908 Reusing MANIFEST C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/MANIFEST-000001
+2023/05/29-12:06:00.638 1908 Recovering log #4
+2023/05/29-12:06:00.638 1908 Reusing old log C:/UnrealEngine/wounding-souls/WoundingSouls/Saved/webcache_4430\IndexedDB\https_www.youtube-nocookie.com_0.indexeddb.leveldb/000004.log 
+2023/05/29-13:52:07.692 3af0 Level-0 table #8: started
+2023/05/29-13:52:07.701 3af0 Level-0 table #8: 190 bytes OK
+2023/05/29-13:52:07.711 3af0 Delete type=0 #4
+2023/05/29-13:52:07.714 3af0 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2023/05/29-13:52:07.716 3af0 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x00\x00\x00\x05' @ 58 : 1
+2023/05/29-13:52:07.716 3af0 Compacting 1@1 + 1@2 files
+2023/05/29-13:52:07.726 3af0 Generated table #9@1: 18 keys, 534 bytes
+2023/05/29-13:52:07.726 3af0 Compacted 1@1 + 1@2 files => 534 bytes
+2023/05/29-13:52:07.734 3af0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2023/05/29-13:52:07.734 3af0 Delete type=2 #5
+2023/05/29-13:52:07.734 3af0 Delete type=2 #8
+2023/05/29-13:52:07.737 3af0 Manual compaction at level-1 from '\x00\x00\x00\x00\x05' @ 58 : 1 .. (end); will stop at (end)
